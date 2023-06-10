@@ -1,0 +1,12 @@
+D:\Programming\CSharp\AreaCalculation\AreaCalculation.Calculations\bin\Debug\net7.0\AreaCalculation.Calculations.deps.json
+D:\Programming\CSharp\AreaCalculation\AreaCalculation.Calculations\bin\Debug\net7.0\AreaCalculation.Calculations.dll
+D:\Programming\CSharp\AreaCalculation\AreaCalculation.Calculations\bin\Debug\net7.0\AreaCalculation.Calculations.pdb
+D:\Programming\CSharp\AreaCalculation\AreaCalculation.Calculations\obj\Debug\net7.0\AreaCalculation.Calculations.csproj.AssemblyReference.cache
+D:\Programming\CSharp\AreaCalculation\AreaCalculation.Calculations\obj\Debug\net7.0\AreaCalculation.Calculations.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programming\CSharp\AreaCalculation\AreaCalculation.Calculations\obj\Debug\net7.0\AreaCalculation.Calculations.AssemblyInfoInputs.cache
+D:\Programming\CSharp\AreaCalculation\AreaCalculation.Calculations\obj\Debug\net7.0\AreaCalculation.Calculations.AssemblyInfo.cs
+D:\Programming\CSharp\AreaCalculation\AreaCalculation.Calculations\obj\Debug\net7.0\AreaCalculation.Calculations.csproj.CoreCompileInputs.cache
+D:\Programming\CSharp\AreaCalculation\AreaCalculation.Calculations\obj\Debug\net7.0\AreaCalculation.Calculations.dll
+D:\Programming\CSharp\AreaCalculation\AreaCalculation.Calculations\obj\Debug\net7.0\refint\AreaCalculation.Calculations.dll
+D:\Programming\CSharp\AreaCalculation\AreaCalculation.Calculations\obj\Debug\net7.0\AreaCalculation.Calculations.pdb
+D:\Programming\CSharp\AreaCalculation\AreaCalculation.Calculations\obj\Debug\net7.0\ref\AreaCalculation.Calculations.dll

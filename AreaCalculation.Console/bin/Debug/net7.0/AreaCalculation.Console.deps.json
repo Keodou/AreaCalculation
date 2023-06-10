@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "AreaCalculation.Console/1.0.0": {
+        "dependencies": {
+          "AreaCalculation.Calculations": "1.0.0"
+        },
+        "runtime": {
+          "AreaCalculation.Console.dll": {}
+        }
+      },
+      "AreaCalculation.Calculations/1.0.0": {
+        "runtime": {
+          "AreaCalculation.Calculations.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "AreaCalculation.Console/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "AreaCalculation.Calculations/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
